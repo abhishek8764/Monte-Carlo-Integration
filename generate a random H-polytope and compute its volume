@@ -1,0 +1,9 @@
+for various dimension and various facets volume are 
+
+
+if dim=2 , facets=50  => volume =  3.141593
+if dim=3 , facets=25  => volume =  4.18879
+if dim=5 , facets=50  => volume =  5.263789
+if dim=10 , facets=80  => volume =  2.550164
+if dim=15 , facets=190  => volume =  0.3814433
+    
