@@ -13,5 +13,5 @@ if a=0.5 , n=5 =>  $integral=77.96579
 if a=0.5 , n=6 =>  $integral=186.3037
 if a=0.5 , n=7 =>  $integral=445.3217
 if a=0.5 , n=8 =>  $integral=1064.288
-if a=0.5 , n=9 =>  no output till 10 minutes
+if a=0.5 , n=9 =>  $integral=2543.564
 if a=0.5 ,n=10 => no output till 10 minutes
