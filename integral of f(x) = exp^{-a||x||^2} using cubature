@@ -1,0 +1,17 @@
+if value of a=2
+then value of integral for diff. values of n is are
+
+if a=2,n=1=>   $integral = 4.728908
+if a=2,n=5=>   $integral = 2364.765
+if a=2,n=6=>   $integral = 11183.15
+if a=2,n=7=>   no output till 10 minutes 
+
+
+if value of a=0.5
+
+if a=0.5 , n=5 =>  $integral=77.96579 
+if a=0.5 , n=6 =>  $integral=186.3037
+if a=0.5 , n=7 =>  $integral=445.3217
+if a=0.5 , n=8 =>  $integral=1064.288
+if a=0.5 , n=9 =>  no output till 10 minutes
+if a=0.5 ,n=10 => no output till 10 minutes
